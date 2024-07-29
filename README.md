@@ -1,12 +1,12 @@
-# Employee_Performance_Appraisal_System_College_Domain
+# Employee Performance Appraisal System College Domain
 The Employee Performance Appraisal System is a web-based application designed to streamline and enhance the performance evaluation process within a college domain. The system is built using HTML, CSS, JavaScript, Java Servlets, and JSP technologies.
 
 ## Key Features
 
 #### User Roles: 
-1.Principal
-2.Head of Department (HOD)
-3.Faculty
+###### 1.Principal
+###### 2.Head of Department (HOD)
+###### 3.Faculty
 
 #### Workflow :
 
@@ -24,6 +24,6 @@ The status of the appraisal form is continuously updated.
 Status updates are visible to the HOD, Principal, and the respective faculty member.
 
 #### Technologies Used:
-Frontend: HTML, CSS, JavaScript
-Backend: Java Servlets, JSP
-Database: Oracle DB
+###### Frontend: HTML, CSS, JavaScript
+###### Backend: Java Servlets, JSP
+###### Database: Oracle DB
